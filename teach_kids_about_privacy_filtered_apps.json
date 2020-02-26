@@ -1,0 +1,444 @@
+[
+  {
+    "games": {
+      "text_rank": 2.311331435061434
+    },
+    "toddler": {
+      "text_rank": 1.954385056231041
+    },
+    "frog": {
+      "text_rank": 1.717655572292291
+    },
+    "privacy": {
+      "text_rank": 1.5013043650793652
+    },
+    "skills": {
+      "text_rank": 1.489078271840663
+    },
+    "learning": {
+      "text_rank": 1.4886680757677149
+    },
+    "improve": {
+      "text_rank": 1.4158541509164988
+    },
+    "children": {
+      "text_rank": 1.400099524087024
+    },
+    "game": {
+      "text_rank": 1.3490798308788974
+    },
+    "policy": {
+      "text_rank": 1.1229252233877234
+    },
+    "app_id": "com.cubicfrog.toddlers.kindergarten.school",
+    "title": "Toddler Preschool Educational Baby Games for Kids"
+  },
+  {
+    "game": {
+      "text_rank": 5.206155865085485
+    },
+    "child": {
+      "text_rank": 3.8295073957018406
+    },
+    "learn": {
+      "text_rank": 2.416917499972302
+    },
+    "minibuu": {
+      "text_rank": 2.3348924269533518
+    },
+    "children": {
+      "text_rank": 2.2987009446888678
+    },
+    "computer": {
+      "text_rank": 2.170531931665404
+    },
+    "kids": {
+      "text_rank": 1.8373399912659298
+    },
+    "games": {
+      "text_rank": 1.609016538048453
+    },
+    "way": {
+      "text_rank": 1.5619548534393943
+    },
+    "privacy": {
+      "text_rank": 1.5486787763112493
+    },
+    "app_id": "com.infigames.babycomputer",
+    "title": "Kids Computer"
+  },
+  {
+    "minibuu": {
+      "text_rank": 2.3667045347744358
+    },
+    "build": {
+      "text_rank": 2.156015625458287
+    },
+    "children": {
+      "text_rank": 2.131213782051282
+    },
+    "fun": {
+      "text_rank": 2.0543023181515587
+    },
+    "game": {
+      "text_rank": 1.8293284092875184
+    },
+    "games": {
+      "text_rank": 1.6942117779089818
+    },
+    "develop": {
+      "text_rank": 1.60269310347491
+    },
+    "creativity": {
+      "text_rank": 1.60269310347491
+    },
+    "shapes": {
+      "text_rank": 1.5624316468820387
+    },
+    "privacy": {
+      "text_rank": 1.5489929067460317
+    },
+    "app_id": "com.minibuu.videogame",
+    "title": "Shapes for Kids"
+  },
+  {
+    "tools": {
+      "text_rank": 3.2061600825428704
+    },
+    "puzzle": {
+      "text_rank": 2.2317390778782817
+    },
+    "playing": {
+      "text_rank": 2.135920852581607
+    },
+    "puzzles": {
+      "text_rank": 1.8155509643479153
+    },
+    "games": {
+      "text_rank": 1.7002510683760685
+    },
+    "contain": {
+      "text_rank": 1.6854305555555555
+    },
+    "home": {
+      "text_rank": 1.5992220969387239
+    },
+    "skills": {
+      "text_rank": 1.5302187578432807
+    },
+    "children": {
+      "text_rank": 1.4691529389881004
+    },
+    "privacy": {
+      "text_rank": 1.3237892578070443
+    },
+    "app_id": "com.iabuzz.Puzzle4KidsTools",
+    "title": "Kids educational puzzle - Tools"
+  },
+  {
+    "children": {
+      "text_rank": 3.7296274716524374
+    },
+    "learn": {
+      "text_rank": 3.114300582328669
+    },
+    "games": {
+      "text_rank": 2.8558095968741246
+    },
+    "find": {
+      "text_rank": 2.806269029767677
+    },
+    "game": {
+      "text_rank": 2.623859791439902
+    },
+    "minibuu": {
+      "text_rank": 1.9860609741651598
+    },
+    "kids": {
+      "text_rank": 1.718623347391961
+    },
+    "help": {
+      "text_rank": 1.6368856274774388
+    },
+    "child": {
+      "text_rank": 1.6040532968080061
+    },
+    "privacy": {
+      "text_rank": 1.3829735026296577
+    },
+    "app_id": "com.minibuu.kidspreschool",
+    "title": "Educative Activities For Kids"
+  },
+  {
+    "children": {
+      "text_rank": 3.0195788162333046
+    },
+    "toy": {
+      "text_rank": 2.3559682755314646
+    },
+    "phone": {
+      "text_rank": 2.2572228202196007
+    },
+    "fun": {
+      "text_rank": 2.162876707135267
+    },
+    "game": {
+      "text_rank": 2.0677105135287097
+    },
+    "minibuu": {
+      "text_rank": 2.059737853381684
+    },
+    "play": {
+      "text_rank": 1.9462977505676267
+    },
+    "burst": {
+      "text_rank": 1.6490134989991252
+    },
+    "privacy": {
+      "text_rank": 1.529177490292712
+    },
+    "baby": {
+      "text_rank": 1.4911555324621881
+    },
+    "app_id": "com.infigames.babyphonetoy",
+    "title": "Baby Carphone Toy. Kids game"
+  },
+  {
+    "shapes": {
+      "text_rank": 3.110004240700373
+    },
+    "game": {
+      "text_rank": 2.9694088037551167
+    },
+    "kids": {
+      "text_rank": 2.733829840586466
+    },
+    "playing": {
+      "text_rank": 1.9338748576887332
+    },
+    "games": {
+      "text_rank": 1.706723172778784
+    },
+    "contain": {
+      "text_rank": 1.6854305555555555
+    },
+    "improve": {
+      "text_rank": 1.558683046216141
+    },
+    "privacy": {
+      "text_rank": 1.5564593446846193
+    },
+    "children": {
+      "text_rank": 1.3946596380646805
+    },
+    "learn": {
+      "text_rank": 1.3187182981680325
+    },
+    "app_id": "com.edubuzzkids.findtheshapeforkids",
+    "title": "Find the Shapes Puzzle for Kids"
+  },
+  {
+    "animal": {
+      "text_rank": 4.730703850234246
+    },
+    "game": {
+      "text_rank": 3.5079772767812005
+    },
+    "kids": {
+      "text_rank": 2.9702321151133546
+    },
+    "animals": {
+      "text_rank": 2.363089833515576
+    },
+    "learn": {
+      "text_rank": 1.7587760891350905
+    },
+    "child": {
+      "text_rank": 1.6957210030322236
+    },
+    "privacy": {
+      "text_rank": 1.6352356494890081
+    },
+    "voice": {
+      "text_rank": 1.4763301202867134
+    },
+    "touching": {
+      "text_rank": 1.421640233856376
+    },
+    "friends": {
+      "text_rank": 1.3977729865860353
+    },
+    "app_id": "com.bonsaisoft.animalfriends",
+    "title": "Animal Friends - Toddler Games"
+  },
+  {
+    "words": {
+      "text_rank": 3.0992105937989107
+    },
+    "toddlers": {
+      "text_rank": 2.328668231170053
+    },
+    "child": {
+      "text_rank": 1.7770089840277232
+    },
+    "contain": {
+      "text_rank": 1.6854305555555555
+    },
+    "baby": {
+      "text_rank": 1.5238733007400564
+    },
+    "privacy": {
+      "text_rank": 1.4514911477411476
+    },
+    "quality": {
+      "text_rank": 1.414182561835958
+    },
+    "play": {
+      "text_rank": 1.41165381290703
+    },
+    "fun": {
+      "text_rank": 1.3882141479512904
+    },
+    "animals": {
+      "text_rank": 1.3573281853100987
+    },
+    "app_id": "com.edubuzzkids.babyfirstwords",
+    "title": "First Words For Baby"
+  },
+  {
+    "kids": {
+      "text_rank": 3.995747992242469
+    },
+    "kidjo": {
+      "text_rank": 3.8694981806784936
+    },
+    "tv": {
+      "text_rank": 3.673812930841766
+    },
+    "subscription": {
+      "text_rank": 2.4687307644629173
+    },
+    "privacy": {
+      "text_rank": 2.4019084073539836
+    },
+    "period": {
+      "text_rank": 2.099551935649439
+    },
+    "parents": {
+      "text_rank": 2.0795661708484596
+    },
+    "children": {
+      "text_rank": 2.058437110733184
+    },
+    "content": {
+      "text_rank": 1.9822149732407848
+    },
+    "books": {
+      "text_rank": 1.875442330762326
+    },
+    "app_id": "net.kidjo.app.android",
+    "title": "Kidjo TV Kids Have Fun & Learn"
+  },
+  {
+    "fox": {
+      "text_rank": 2.668851195112558
+    },
+    "movie": {
+      "text_rank": 2.040779871088073
+    },
+    "sheep": {
+      "text_rank": 1.8918847035904554
+    },
+    "children": {
+      "text_rank": 1.7736991251314143
+    },
+    "privacy": {
+      "text_rank": 1.5774770283586195
+    },
+    "characters": {
+      "text_rank": 1.4424646857590897
+    },
+    "creator": {
+      "text_rank": 1.4057470440471804
+    },
+    "music": {
+      "text_rank": 1.3476020718962007
+    },
+    "opening": {
+      "text_rank": 1.332838461702063
+    },
+    "way": {
+      "text_rank": 1.321650324610991
+    },
+    "app_id": "com.foxandsheep.moviestudio",
+    "title": "Creative Movie Maker for Kids"
+  },
+  {
+    "games": {
+      "text_rank": 2.856294692334527
+    },
+    "kids": {
+      "text_rank": 2.2753289634949145
+    },
+    "play": {
+      "text_rank": 1.5695532686311706
+    },
+    "colors": {
+      "text_rank": 1.4849648678073302
+    },
+    "letters": {
+      "text_rank": 1.4849648678073302
+    },
+    "monkey": {
+      "text_rank": 1.4003627924406943
+    },
+    "game": {
+      "text_rank": 1.0443116987179488
+    },
+    "privacy": {
+      "text_rank": 1.0389171899529042
+    },
+    "designed": {
+      "text_rank": 1.0
+    },
+    "preschoolers": {
+      "text_rank": 1.0
+    },
+    "app_id": "com.thup.lunchbox",
+    "title": "Monkey Preschool Lunchbox"
+  },
+  {
+    "browser": {
+      "text_rank": 3.010354577152978
+    },
+    "privacy": {
+      "text_rank": 2.906908671686303
+    },
+    "junior": {
+      "text_rank": 2.5767674572605324
+    },
+    "content": {
+      "text_rank": 1.95671613396715
+    },
+    "kid": {
+      "text_rank": 1.8180293401701184
+    },
+    "websites": {
+      "text_rank": 1.7598182530433455
+    },
+    "qwant": {
+      "text_rank": 1.7540521121174866
+    },
+    "kids": {
+      "text_rank": 1.7354050979850673
+    },
+    "brings": {
+      "text_rank": 1.1712309729736177
+    },
+    "search": {
+      "text_rank": 1.1643138723276865
+    },
+    "app_id": "com.qwantjunior.mobile",
+    "title": "Qwant Junior"
+  }
+]
